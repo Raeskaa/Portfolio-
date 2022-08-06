@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Aug 2022 23:57:50 at https://www.Maheshyeunkim.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Mahesh
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sharonyeunkim.com/ -O1 "C:\My Web Sites\Portfolio - 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may conMaheshensitive information,Mahesh
+MaheshMahesh
+	such as username/password authentication for websites miMahesh in this projectMahesh
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+00:00:12	Error: 	"Bad Request" (400) at link https://www.sharonyeunkim.com/"https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FoCvKrMhjpkibUdkS4bz88f%2FGoals_LOFI_20201101%3Fnode-id%3D1166%253A5650%26viewport%3D696%252C-127%252C0.10068307816982269%26scaling%3Dscale-down\%22 (from https://www.sharonyeunkim.com/onnit)
+
+00:00:16	Error: 	"Bad Request" (400) at link https://www.sharonyeunkim.com/"https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FU4ZCA9wXMmfje0WPXZrmV8%2FHomesFirst-Design-Sprint%3Fnode-id%3D279%253A21%26viewport%3D740%252C-580%252C0.11338558048009872%26scaling%3Dscale-down\%22 (from https://www.sharonyeunkim.com/homesfirst)
+
+00:00:16	Error: 	"Bad Request" (400) at link https://www.sharonyeunkim.com/"https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTagrNzKJWvW5vajqYF9gdb%2FMyNewSchool-Redesign%3Fnode-id%3D94%253A46%26viewport%3D616%252C226%252C0.14669519662857056%26scaling%3Dscale-down-width\%22 (from https://www.sharonyeunkim.com/parsons-student-portal-redesign)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 26 seconds : 85 links scanned, 81 files written (96988005 bytes overall) [94197411 bytes received at 645187 bytes/sec], 3969195 bytes transferred using HTTP compression in 16 files, ratio 22%, 2.8 requests per connection
+
+(3 errors, 0 warnings, 0 messages)
+
